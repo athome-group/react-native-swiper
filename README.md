@@ -4,6 +4,8 @@
 
 <p align="center">
   The best Swiper component for React Native.
+
+  This fork is to test if ScrollView behave better than ViewPagerAndroid on android.
 </p>
 
 <p align="center">
